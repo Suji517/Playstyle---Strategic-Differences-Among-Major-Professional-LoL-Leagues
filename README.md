@@ -1,4 +1,4 @@
-# Playstyle---Strategic-Differences-Among-Major-Professional-LoL-Leagues
+# Playstyle-Strategic-Differences-Among-Major-Professional-LoL-Leagues
 
 **👥 Team Members**
 - Brian Park (PM)
@@ -14,7 +14,7 @@ This project gives an in-depth analysis of League of Legends professional e-spor
 ## 📈 Key Visualizations
 
 ### 1️⃣ Tableau Dashboard 1
-![Tableau Dashboard 1](Tableau Dashboard 1.png) 
+![Tableau Dashboard 1](Tableau%20Dashboard%201.png)
 
 ### 2️⃣ Tableau Dashboard 2
-![Tableau Dashboard 2](Tableau Dashboard 2.png)
+![Tableau Dashboard 2](Tableau%20Dashboard%202.png)
